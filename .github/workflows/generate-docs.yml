@@ -239,7 +239,7 @@ jobs:
           }
           
           .terminal-header {
-            @apply flex items-center gap-2 px-4 py-2 bg-gray-800 border border-gray-700 rounded-md;
+             @apply flex items-center gap-2 px-4 py-2 bg-gray-800 border-b border-gray-700;
           }
           
           .terminal-circle {
@@ -435,7 +435,7 @@ jobs:
                 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div class="flex items-center justify-between h-16">
                         <div class="flex items-center space-x-4">
-                            <div class="terminal-header">
+                            <div class="terminal-header rounded-md">
                                 <div class="terminal-circle bg-red-500"></div>
                                 <div class="terminal-circle bg-yellow-500"></div>
                                 <div class="terminal-circle bg-green-500"></div>
@@ -477,8 +477,8 @@ jobs:
                 </section>
 
                 <!-- Documentation Content -->
-                <section id="documentation" class="py-16 px-4 sm:px-6 lg:px-8">
-                    <div class="max-w-4xl mx-auto">
+                <section class="py-16 px-4 sm:px-6 lg:px-8">
+                    <div class="max-w-4xl mx-auto" id="documentation">
                         <div class="terminal-card p-8 lg:p-12">
                             <div class="terminal-header mb-6">
                                 <div class="terminal-circle bg-red-500"></div>
