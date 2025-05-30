@@ -465,7 +465,7 @@ jobs:
                                     </svg>
                                 </div>
                             </div>
-                            <h1 class="text-1xl font-bold text-shadow-cyber text-hacker-text mb-6" data-text="${REPO_NAME}">
+                            <h1 class="text-4xl font-bold text-shadow-cyber text-hacker-text mb-6" data-text="${REPO_NAME}">
                                 ${REPO_NAME}
                             </h1>
                             <div class="flex flex-col sm:flex-row gap-4 justify-center">
