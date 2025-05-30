@@ -235,11 +235,11 @@ jobs:
 
         @layer components {
           .terminal-card {
-            @apply bg-hacker-light border border-gray-700 rounded-md shadow-lg overflow-hidden;
+            @apply bg-hacker-light border border-gray-700 shadow-lg overflow-hidden rounded-b-[10rem];
           }
           
           .terminal-header {
-            @apply flex items-center gap-2 px-4 py-2 bg-gray-800 border-b border-gray-700;
+            @apply flex items-center gap-2 px-4 py-2 bg-gray-800 border border-gray-700 rounded-[10rem];
           }
           
           .terminal-circle {
@@ -435,7 +435,7 @@ jobs:
                 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div class="flex items-center justify-between h-16">
                         <div class="flex items-center space-x-4">
-                            <div class="terminal-header border-b">
+                            <div class="terminal-header">
                                 <div class="terminal-circle bg-red-500"></div>
                                 <div class="terminal-circle bg-yellow-500"></div>
                                 <div class="terminal-circle bg-green-500"></div>
