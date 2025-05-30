@@ -477,8 +477,8 @@ jobs:
                 </section>
 
                 <!-- Documentation Content -->
-                <section class="py-16 px-4 sm:px-6 lg:px-8">
-                    <div class="max-w-4xl mx-auto" id="documentation">
+                <section id="documentation" class="py-16 px-4 sm:px-6 lg:px-8">
+                    <div class="max-w-4xl mx-auto">
                         <div class="terminal-card p-8 lg:p-12">
                             <div class="terminal-header mb-6">
                                 <div class="terminal-circle bg-red-500"></div>
