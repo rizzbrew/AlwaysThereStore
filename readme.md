@@ -49,7 +49,7 @@ Aplikasi kasir modern berbasis **Microsoft Excel** dengan **VBA (Visual Basic fo
 
 
 ## 🚀 Cara Pakai
-1. Buka file `KASIR V1.5 DEMO LOCKED.xlsb`
+1. Buka file `KASIR V1.5 VBA LOCKED.xlsb`
 2. Aktifkan Macro
 3. Login dengan akun demo
 4. Jelajahi fitur dashboard & menu admin
