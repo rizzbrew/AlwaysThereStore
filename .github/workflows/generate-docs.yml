@@ -467,7 +467,7 @@ jobs:
                                 class="mx-auto w-24 h-24 sm:w-28 sm:h-28 object-contain"
                                 />
                             </div>
-                            <h1 class="text-3xl font-bold text-shadow-cyber text-hacker-text mb-6" data-text="${REPO_NAME}">
+                            <h1 class="text-4xl font-bold text-shadow-cyber text-hacker-text mb-6" data-text="${REPO_NAME}">
                                 ${REPO_NAME}
                             </h1>
                             <div class="flex flex-col sm:flex-row gap-4 justify-center">
