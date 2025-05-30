@@ -1,4 +1,4 @@
-# 📊 Point of Sales (POS) Excel - KASIR V1.5
+# KASIR V1.5
 
 ![Preview Dashboard](https://raw.githubusercontent.com/rizzbrew/alwaystherestore/refs/heads/main/prev.png)
 
