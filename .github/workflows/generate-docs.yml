@@ -315,6 +315,9 @@ jobs:
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>${REPO_NAME} - Documentation</title>
             <meta name="description" content="${REPO_DESCRIPTION}">
+            <link rel="icon" href="https://raw.githubusercontent.com/rizzbrew/AlwaysThereStore/refs/heads/main/favicon.ico" type="image/x-icon">
+            <meta property="og:image" content="https://raw.githubusercontent.com/rizzbrew/alwaystherestore/refs/heads/main/prev.png">
+            <meta name="author" content="RizzyFuzz">
             <link href="./output.css" rel="stylesheet">
             <link rel="stylesheet" href="https://cdn.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
             <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
