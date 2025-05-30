@@ -1,6 +1,6 @@
 # 📊 Point of Sales (POS) Excel - KASIR V1.5
 
-![Preview Dashboard](prev.png)
+![Preview Dashboard](https://raw.githubusercontent.com/rizzbrew/alwaystherestore/refs/heads/main/prev.png)
 
 Aplikasi kasir modern berbasis **Microsoft Excel** dengan **VBA (Visual Basic for Applications)**. Cocok untuk UMKM, toko kelontong, minimarket, dan bisnis retail lainnya.
 
