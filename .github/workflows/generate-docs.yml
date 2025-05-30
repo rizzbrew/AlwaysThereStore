@@ -464,7 +464,7 @@ jobs:
                             <div class="animate-float mb-8 flex justify-center">
                                 <img src="https://raw.githubusercontent.com/rizzbrew/AlwaysThereStore/refs/heads/main/kasir.png" 
                                 alt="Kasir Icon" 
-                                class="w-20 h-20 sm:w-15 sm:h-15 object-contain"
+                                class="w-20 h-20 object-contain"
                                 />
                             </div>
                             <h1 class="text-3xl font-bold text-shadow-cyber text-hacker-text mb-6" data-text="${REPO_NAME}">
