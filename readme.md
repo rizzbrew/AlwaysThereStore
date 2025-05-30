@@ -4,13 +4,11 @@
 
 Aplikasi kasir modern berbasis **Microsoft Excel** dengan **VBA (Visual Basic for Applications)**. Cocok untuk UMKM, toko kelontong, minimarket, dan bisnis retail lainnya.
 
----
 
 ## 🧪 Login Demo
 - **Username**: `admin`
 - **Password**: `admin123`
 
----
 
 ## 💼 Fitur Unggulan
 
@@ -31,7 +29,6 @@ Aplikasi kasir modern berbasis **Microsoft Excel** dengan **VBA (Visual Basic fo
 - **Hapus Histori Transaksi**: Kosongkan `TRANSAKSI` & `REKAPITULASI`
 - **Hapus Log Aplikasi**: Kosongkan sheet `LOG` (aktivitas login)
 
----
 
 ## 📂 Sheet yang Termasuk
 - `WELCOME` – Halaman pembuka
@@ -44,14 +41,12 @@ Aplikasi kasir modern berbasis **Microsoft Excel** dengan **VBA (Visual Basic fo
 - `CONFIG` – Konfigurasi toko
 - `LOG` – Histori login
 
----
 
 ## 🛠 Teknologi
 - **Microsoft Excel (.xlsb)**
 - **Makro VBA (Visual Basic for Applications)**
 - Tidak memerlukan software tambahan
 
----
 
 ## 🚀 Cara Pakai
 1. Buka file `KASIR V1.5 DEMO LOCKED.xlsb`
@@ -59,19 +54,16 @@ Aplikasi kasir modern berbasis **Microsoft Excel** dengan **VBA (Visual Basic fo
 3. Login dengan akun demo
 4. Jelajahi fitur dashboard & menu admin
 
----
 
 ## 🧪 Versi Demo
 File ini adalah **versi demo**. Silakan coba, dan jika tertarik bisa membeli versi full melalui kontak admin.
 
----
 
 ## 💬 Tertarik Membeli?
 Silakan hubungi admin melalui WhatsApp untuk pembelian dan informasi lebih lanjut:
 
 👉 [Klik untuk Chat WhatsApp Admin](https://wa.me/message/HSNDKV23K2KRN1)
 
----
 
 ## 📜 Lisensi
 Untuk keperluan edukasi dan uji coba. Dilarang mendistribusikan ulang tanpa izin. Versi full tersedia melalui pembelian.
