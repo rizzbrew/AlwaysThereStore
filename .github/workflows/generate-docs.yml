@@ -461,20 +461,18 @@ jobs:
                 <section class="relative py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
                     <div class="relative max-w-7xl mx-auto">
                         <div class="text-center">
-                            <div class="animate-float mb-8">
+                            <div class="animate-float mb-8 flex justify-center">
                                 <img src="https://raw.githubusercontent.com/rizzbrew/AlwaysThereStore/refs/heads/main/kasir.png" 
                                 alt="Kasir Icon" 
-                                class="w-20 h-20 shadow-lg" />
+                                class="w-24 h-24 sm:w-28 sm:h-28 object-contain"
+                                />
                             </div>
                             <h1 class="text-2xl font-bold text-shadow-cyber text-hacker-text mb-6" data-text="${REPO_NAME}">
                                 ${REPO_NAME}
                             </h1>
                             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                                 <a href="#documentation" class="cyber-btn">
-                                    <span>Read Documentation</span>
-                                    <svg class="w-5 h-5 ml-2 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
-                                    </svg>
+                                    <span>Read Documentation</span> 
                                 </a>
                             </div>
                         </div>
